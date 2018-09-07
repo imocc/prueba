@@ -1,0 +1,27 @@
+{
+  "short_name": "iMOC",
+  "name": "Descarga y Comparte iMOC App Web ",
+  "icons": [{
+    "src": "images/128.png",
+    "type": "image/png",
+    "sizes": "128x128"
+  }, {
+    "src": "images/152.png",
+    "type": "image/png",
+    "sizes": "152x152"
+  }, {
+    "src": "images/144.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }, {
+    "src": "images/192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }],
+  "start_url": "https://imocc.github.io/frame/",
+  "background_color": "#EC7063",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#EC7063"
+
+}

@@ -1,0 +1,19 @@
+{
+
+  "background_color": "#EC7063",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#EC7063"
+  "description": "Disfruta de iMOC totalmente gratis.",
+
+  "icons": [
+    {
+      "src": "icon/128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    }
+  ],
+ "short_name": "iMOC",
+  "name": "Descarga y Comparte iMOC App Web ",
+  "start_url": "/index.html"
+}
